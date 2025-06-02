@@ -1,6 +1,7 @@
 # ESP32 BLE Combo Keyboard & Mouse library
 
 This fork is updated with @T-kV's latest [ESP32-BLE-Keyboard] versiom, v0.3.2-beta
+
 This library allows you to make the ESP32 act as a Bluetooth keyboard and mouse with Arduino.
 
 ## Todo
