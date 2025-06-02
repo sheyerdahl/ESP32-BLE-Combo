@@ -57,8 +57,7 @@ void loop() {
 ```
 ## Credits
 
-This is fork of @T-kV's excellent [ESP32-BLE-Mouse](https://github.com/T-vK/ESP32-BLE-Mouse)
-and [ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) libraries.
+This is fork of @blackketter's excellent [ESP32-BLE-Combo](https://github.com/blackketter/ESP32-BLE-Combo) library.
 
 You might also be interested in:
 
